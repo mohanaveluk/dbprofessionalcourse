@@ -1,5 +1,5 @@
 # Databricks notebook source
-# MAGIC %run ../../includes/copy_dataset  
+# MAGIC %run ../includes/copy_dataset
 
 # COMMAND ----------
 
